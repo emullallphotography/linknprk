@@ -13,8 +13,6 @@
 * HTML coders
 * CSS coders
 
-If you want to collab on any of these projects email me at [eTmullall@outlook.com](mailto:eTmullall@outlook.com)
-
 ### Languages I use
 
 * Python
@@ -29,3 +27,5 @@ If you want to collab on any of these projects email me at [eTmullall@outlook.co
   
   ### What is linknprk?
   Linknprk is a website that teaches you about the band Linkin Park and how and why the band members got  into music 
+
+If you want to collab on any of these projects email me at [eTmullall@outlook.com](mailto:eTmullall@outlook.com)
